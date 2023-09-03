@@ -37,4 +37,5 @@ public class IsPalindromeNumber{
 }  
 
 
-//by Arman Azarnik
+// by Arman Azarnik
+// armanazarnik@gmail.com
